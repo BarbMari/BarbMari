@@ -12,10 +12,19 @@
 
 <div align="center">
 
-## ```♡ About me ♡```
+# ```♡ About me ♡```
 
+## ```placeholderplaceholderblablabla```
 
-```placeholderplaceholderblablabla```
+# ```♡ Projects ♡```
+
+## ```placeholderplaceholderblablabla```
+
+# ```♡ Contact ♡```
+
+```E-mail: ```  
+```Instagram: ```  
+
 
 </div>
 
