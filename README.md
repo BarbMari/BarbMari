@@ -9,10 +9,15 @@
 
 ##
 
-<div style="font-family: Georgia, 'Times New Roman', Times, serif; color: pink;">
 
-## About me :P
+<div align="center">
+
+## ```♡ About me ♡```
+
+
+```placeholderplaceholderblablabla```
 
 </div>
+
 
 
